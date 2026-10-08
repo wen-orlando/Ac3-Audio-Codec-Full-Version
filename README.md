@@ -242,4 +242,4 @@ This repository serves as the official landing page for AC3 Audio Codec. The sof
 **Get the most recent version of AC3 Audio Codec today!**
 
 ---
-**Last updated:** 2026-10-07 21:11:01 UTC
+**Last updated:** 2026-10-08 01:44:20 UTC
